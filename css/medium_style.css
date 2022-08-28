@@ -1,7 +1,11 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+
 .bg-yellow{
     background-color: #FFC017
 }
 
-.border-bottom-1{
+.border-bottom-dark-1{
     border-bottom: 1px solid black;
 }
