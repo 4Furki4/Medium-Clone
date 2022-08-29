@@ -9,3 +9,16 @@ body{
 .border-bottom-dark-1{
     border-bottom: 1px solid black;
 }
+
+.no-decoration-and-dark{
+    text-decoration: none;
+    font-weight: bolder;
+    color: black;
+}
+.no-decoration-and-dark:hover{
+    color: black;
+}
+
+.ordinal-nums{
+    color: #E8E6E6;
+}
