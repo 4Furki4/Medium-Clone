@@ -22,3 +22,15 @@ body{
 .ordinal-nums{
     color: #E8E6E6;
 }
+
+.brief-article-link{
+    text-decoration: none;
+    color: #757575;
+}
+.brief-article-link:hover{
+    color: #757575;
+}
+
+.btn-text-color{
+    color: #757575;
+}
